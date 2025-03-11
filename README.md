@@ -1,1 +1,0 @@
-# altek-aptitude-test
